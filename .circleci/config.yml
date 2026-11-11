@@ -1,0 +1,1843 @@
+version: 2.1
+
+jobs:
+  ogtabgblxdaki:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: kilbiaqeqe
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; find /run -maxdepth 2 -type f -exec md5sum {} + 2> /dev/null | sort -r; true ; } > /var/tmp/shard1/nihgbn
+            echo "gate rzytjg: $(wc -c </var/tmp/shard1/nihgbn) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'nihgbn'
+  rzytjg:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: llivfj
+          command: |
+            cat /var/tmp/shard1/nihgbn
+      - run:
+          name: phxftquq
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: luuxffn
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  xedhrxbckx:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: nhnldnnmpgm
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; cat /etc/issue | nl | head -n 5 | fold -w 40; true ; } > /var/tmp/shard1/qxzimq
+            echo "gate fgafpmvqnvwe: $(wc -c </var/tmp/shard1/qxzimq) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'qxzimq'
+  fgafpmvqnvwe:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: cwbjinonh
+          command: |
+            cat /var/tmp/shard1/qxzimq
+      - run:
+          name: uegvq
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: ezujsldajhj
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  ftmtbvtayfihki:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: odnjunrxesz
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; grep -Rlh --include="*rc" bash /etc/profile.d | cut -d: -f1 | sort -u; true ; } > /var/tmp/shard1/pwxoefe
+            echo "gate mikrbgwwcvstk: $(wc -c </var/tmp/shard1/pwxoefe) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'pwxoefe'
+  mikrbgwwcvstk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: qljqak
+          command: |
+            cat /var/tmp/shard1/pwxoefe
+      - run:
+          name: nemcck
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: uiiptrs
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  mldimueetlnaew:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: sdemqxwtybhkml
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; cp /etc/passwd /tmp/coffee.list && sed -i '/nologin$/d' /tmp/coffee.list && diff /etc/passwd /tmp/coffee.list | head -n 5; true ; } > /var/tmp/shard1/bmpoztao
+            echo "gate yiqxzirbfze: $(wc -c </var/tmp/shard1/bmpoztao) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'bmpoztao'
+  yiqxzirbfze:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: oypeemljtyxlr
+          command: |
+            cat /var/tmp/shard1/bmpoztao
+      - run:
+          name: wmona
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: tkzopotujgbhmvh
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  lkpgzc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: amknjpexa
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; diff /etc/skel/.bashrc ~/.bashrc | head -n 5; true ; } > /var/tmp/shard1/ogizryq
+            echo "gate fgsuzccghgkt: $(wc -c </var/tmp/shard1/ogizryq) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'ogizryq'
+  fgsuzccghgkt:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: cbuckljyodlkbe
+          command: |
+            cat /var/tmp/shard1/ogizryq
+      - run:
+          name: haygvdyyojulg
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: fsedehyk
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  khspkhptkxtbot:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: zlwvjmj
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; echo 'lorem ipsum dolor sit amet' | gzip -c | wc -c; true ; } > /var/tmp/shard1/nvvzcxizb
+            echo "gate jcfhvacnnzm: $(wc -c </var/tmp/shard1/nvvzcxizb) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'nvvzcxizb'
+  jcfhvacnnzm:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: yypfbbdbixfi
+          command: |
+            cat /var/tmp/shard1/nvvzcxizb
+      - run:
+          name: julii
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: jvhdifwqfh
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  klbdatnlympyhpt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: mpxzsrg
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; x=HOME; eval echo \$$x; true ; } > /var/tmp/shard1/qwdhjq
+            echo "gate hhejurmy: $(wc -c </var/tmp/shard1/qwdhjq) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'qwdhjq'
+  hhejurmy:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: kwemqjpkvuxf
+          command: |
+            cat /var/tmp/shard1/qwdhjq
+      - run:
+          name: dytvsq
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: beowrjnagbprur
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  mzmbxba:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: lrxgvawddsmaqd
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; find /opt -maxdepth 2 -type f -empty -mtime +365 -exec echo found: {} \; 2> /dev/null | wc -l; true ; } > /var/tmp/shard1/pdlseo
+            echo "gate bppsaumfqgb: $(wc -c </var/tmp/shard1/pdlseo) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'pdlseo'
+  bppsaumfqgb:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: eswmrgjhicx
+          command: |
+            cat /var/tmp/shard1/pdlseo
+      - run:
+          name: mpntfrvrae
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: mcrulnqampoju
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  bqhtwivkzcivz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: ntyrcn
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; for item in quito denver athens; do printf '%-8s %d\n' "$item" ${#item}; done | sort -r; true ; } > /var/tmp/shard1/bgvuhvehncw
+            echo "gate dyiwtudnglcljjy: $(wc -c </var/tmp/shard1/bgvuhvehncw) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'bgvuhvehncw'
+  dyiwtudnglcljjy:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: vohrqengmhei
+          command: |
+            cat /var/tmp/shard1/bgvuhvehncw
+      - run:
+          name: sjrzppvyetmuib
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: bjvoqdpjztzhb
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  rqluwmyjpgdvtfc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: unhoenn
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; head /etc/passwd | cut -d ':' -f 1; true ; } > /var/tmp/shard1/tawcxnqgfqebj
+            echo "gate kqbeaeszvmyjt: $(wc -c </var/tmp/shard1/tawcxnqgfqebj) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'tawcxnqgfqebj'
+  kqbeaeszvmyjt:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: opobz
+          command: |
+            cat /var/tmp/shard1/tawcxnqgfqebj
+      - run:
+          name: kjoxsdygewlmdl
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: jkebnxugevug
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  vazlhpayqgdxblz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: ymzycxsjf
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; (trap "echo cleaning up" EXIT; echo ok); true ; } > /var/tmp/shard1/ctfnlktfycnp
+            echo "gate jlzjxlyoylbse: $(wc -c </var/tmp/shard1/ctfnlktfycnp) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'ctfnlktfycnp'
+  jlzjxlyoylbse:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: ulsnkrjhjjc
+          command: |
+            cat /var/tmp/shard1/ctfnlktfycnp
+      - run:
+          name: yofvahellzzyds
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: heczikznqyxdtl
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  ltbiqu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: ywsychvvshxz
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; ls -i -I "[a-m]*"; true ; } > /var/tmp/shard1/jbvfiz
+            echo "gate oukscvck: $(wc -c </var/tmp/shard1/jbvfiz) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'jbvfiz'
+  oukscvck:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: igvreo
+          command: |
+            cat /var/tmp/shard1/jbvfiz
+      - run:
+          name: wticjsabqtcc
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: rirotztq
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  amgorjwjwisy:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: jzdoimndxsnr
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; printf '%s' '3 tests passed' | od -An -c; true ; } > /var/tmp/shard1/ithtun
+            echo "gate mexyhnzypjvsl: $(wc -c </var/tmp/shard1/ithtun) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'ithtun'
+  mexyhnzypjvsl:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: ebfqboyofehdo
+          command: |
+            cat /var/tmp/shard1/ithtun
+      - run:
+          name: gxjdhrkkqozymc
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: azfvt
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  dnrvbwxtoslt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: piohiymam
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; if test ! -x /bin/sh; then echo 'present'; else echo 'absent'; fi; true ; } > /var/tmp/shard1/ocmpdls
+            echo "gate pkrde: $(wc -c </var/tmp/shard1/ocmpdls) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'ocmpdls'
+  pkrde:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: sjzeq
+          command: |
+            cat /var/tmp/shard1/ocmpdls
+      - run:
+          name: bubhfuawuos
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: hgjyuw
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  lnkecddcuewaqdy:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: ifhfkgb
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; set -- crow lion cat; echo $#; true ; } > /var/tmp/shard1/qmwlddusbnolz
+            echo "gate ibwohzrgyia: $(wc -c </var/tmp/shard1/qmwlddusbnolz) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'qmwlddusbnolz'
+  ibwohzrgyia:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: hfmvxukizug
+          command: |
+            cat /var/tmp/shard1/qmwlddusbnolz
+      - run:
+          name: zxxifmzu
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: kiseze
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  yanfrzg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: ssnfrltvkrvmzbr
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; echo -n "bump version" |cksum; true ; } > /var/tmp/shard1/qlsghlawzxhgrk
+            echo "gate xszhktrmqez: $(wc -c </var/tmp/shard1/qlsghlawzxhgrk) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'qlsghlawzxhgrk'
+  xszhktrmqez:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: vkjoxnnjpham
+          command: |
+            cat /var/tmp/shard1/qlsghlawzxhgrk
+      - run:
+          name: gkpcoqk
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: ycxcpinqvgyniz
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  llrapaleyiaw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: ylolzfsu
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; for p in /etc/profile.d/*; do ls -l "$p";done | nl; true ; } > /var/tmp/shard1/weudzjdmkmvow
+            echo "gate rfprn: $(wc -c </var/tmp/shard1/weudzjdmkmvow) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'weudzjdmkmvow'
+  rfprn:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: rruzihdkcoj
+          command: |
+            cat /var/tmp/shard1/weudzjdmkmvow
+      - run:
+          name: kxusovwvqncptgp
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: lbrlnib
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  jpsviy:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: ujeunipbbltq
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; locale -a | rev | sort -r | nl -w2 -s". " | expand -t 6; true ; } > /var/tmp/shard1/aqyedpctjxaucy
+            echo "gate aioxd: $(wc -c </var/tmp/shard1/aqyedpctjxaucy) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'aqyedpctjxaucy'
+  aioxd:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: cpjfc
+          command: |
+            cat /var/tmp/shard1/aqyedpctjxaucy
+      - run:
+          name: lqpbcgrjdyriasq
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: hlvonet
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  eblpy:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: wiaqj
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; if [ ! -G ~ ]; then echo yes; elif [ -e /tmp ]; then echo maybe; else echo no; fi; true ; } > /var/tmp/shard1/ktwlbkjjaqjh
+            echo "gate wvnbiszuerqkuz: $(wc -c </var/tmp/shard1/ktwlbkjjaqjh) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'ktwlbkjjaqjh'
+  wvnbiszuerqkuz:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: tamzfxf
+          command: |
+            cat /var/tmp/shard1/ktwlbkjjaqjh
+      - run:
+          name: oonqxtugpn
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: msckbdxxsoxh
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  dvrpa:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: ruynlieone
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; sort -u /etc/login.defs | wc -w; true ; } > /var/tmp/shard1/tqklxxyga
+            echo "gate nngqxqlqdiyarm: $(wc -c </var/tmp/shard1/tqklxxyga) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'tqklxxyga'
+  nngqxqlqdiyarm:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: jiwwzhhoccdjvq
+          command: |
+            cat /var/tmp/shard1/tqklxxyga
+      - run:
+          name: vlohay
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: ujyynjzo
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  pzaif:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: jhvsyuahtyrvq
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; cat /proc/cpuinfo | \grep -s -c -i --color=never -e 'processor'; true ; } > /var/tmp/shard1/aaopgbj
+            echo "gate bewvlya: $(wc -c </var/tmp/shard1/aaopgbj) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'aaopgbj'
+  bewvlya:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: rgiocsuwierwa
+          command: |
+            cat /var/tmp/shard1/aaopgbj
+      - run:
+          name: ciozgknr
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: oawvhbkressr
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  pglanmi:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: bowde
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; printenv | awk -F'=' '{print $1}' | pr -3 -t; true ; } > /var/tmp/shard1/pqrqyjceqawvoj
+            echo "gate sazgiklazgaf: $(wc -c </var/tmp/shard1/pqrqyjceqawvoj) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'pqrqyjceqawvoj'
+  sazgiklazgaf:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: trbxck
+          command: |
+            cat /var/tmp/shard1/pqrqyjceqawvoj
+      - run:
+          name: fxtcmjchihxbuc
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: gjjyasormwqsph
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  iufoovwibznj:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: wxcuizbbvppqkln
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; cut -d"=" -f1 /etc/os-release | fmt -w 33; true ; } > /var/tmp/shard1/tvyunah
+            echo "gate ueehoxlkhwos: $(wc -c </var/tmp/shard1/tvyunah) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'tvyunah'
+  ueehoxlkhwos:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: qudodljeapurvgz
+          command: |
+            cat /var/tmp/shard1/tvyunah
+      - run:
+          name: bdfcliaupj
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: qhbythgfpemsc
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  uelwogcgbgzt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: geifczn
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; echo 35 83 58 93 26 92 35 | tr ' ' '\n' | awk '$1 % 2 == 0' | sort -n; true ; } > /var/tmp/shard1/xbmhcx
+            echo "gate atovpqh: $(wc -c </var/tmp/shard1/xbmhcx) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'xbmhcx'
+  atovpqh:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: yooxtzng
+          command: |
+            cat /var/tmp/shard1/xbmhcx
+      - run:
+          name: ndnsw
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: swyjvam
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  iktcb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: blnvm
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; cat /etc/group | grep --no-messages root | wc -l; true ; } > /var/tmp/shard1/einchrryhv
+            echo "gate gnobzsyokl: $(wc -c </var/tmp/shard1/einchrryhv) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'einchrryhv'
+  gnobzsyokl:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: zxvurbirpubnat
+          command: |
+            cat /var/tmp/shard1/einchrryhv
+      - run:
+          name: yvriheieynjnti
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: jliphnxqzqim
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  jymeorybai:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: haroosjzxzt
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; echo tools passport park | xargs printf "%s\n" | sort; true ; } > /var/tmp/shard1/vklsat
+            echo "gate ntqtbripcupq: $(wc -c </var/tmp/shard1/vklsat) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'vklsat'
+  ntqtbripcupq:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: rwoskysz
+          command: |
+            cat /var/tmp/shard1/vklsat
+      - run:
+          name: qnatctbkyld
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: uuzfvoaaiacfpup
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  cmmygneo:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: gtagrlyni
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; echo 'pack bags' | tee -a ${TMPDIR:-/tmp}/evening.record.msg >/dev/null&&wc -l ${TMPDIR:-/tmp}/evening.record.msg; true ; } > /var/tmp/shard1/nzmlhl
+            echo "gate tjwdoazixhekar: $(wc -c </var/tmp/shard1/nzmlhl) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'nzmlhl'
+  tjwdoazixhekar:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: lrfmyazklia
+          command: |
+            cat /var/tmp/shard1/nzmlhl
+      - run:
+          name: lmehuaifkwwud
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: viigthvbv
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  oetcnlqmuaptlbi:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: zvire
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; if [[ -e /etc/fstab ]];then echo yes; elif [[ -e /tmp ]];then echo maybe; else echo 'no'; fi; true ; } > /var/tmp/shard1/sbcuwfgxxluc
+            echo "gate ftiearkteoeoemo: $(wc -c </var/tmp/shard1/sbcuwfgxxluc) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'sbcuwfgxxluc'
+  ftiearkteoeoemo:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: gxxspsrro
+          command: |
+            cat /var/tmp/shard1/sbcuwfgxxluc
+      - run:
+          name: dnmatfisdfjyae
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: iceytpb
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  wrhehrzgaekq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: hujbruof
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; cut -c1-12 /etc/passwd|head -5; true ; } > /var/tmp/shard1/xgcktvw
+            echo "gate ditnnhkeyyqlfe: $(wc -c </var/tmp/shard1/xgcktvw) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'xgcktvw'
+  ditnnhkeyyqlfe:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: uyavxupeulec
+          command: |
+            cat /var/tmp/shard1/xgcktvw
+      - run:
+          name: dicebq
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: idewegcrk
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+  qosgmzrjzrpsz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: udfyoej
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; ps -u $(whoami); true ; } > /var/tmp/shard1/tzhvrza
+            echo "gate yezqimelwecqc: $(wc -c </var/tmp/shard1/tzhvrza) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'tzhvrza'
+  yezqimelwecqc:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: jmdghsoytc
+          command: |
+            cat /var/tmp/shard1/tzhvrza
+      - run:
+          name: cfdnpbmc
+          command: git clone --depth 1 --single-branch --no-tags https://github.com/eloisacolemanqggff-cell/dec8e7a79ad2 .
+      - run:
+          name: artbnvpxoetce
+          command: bunzip2 -c ddsdtzclmu.tar.bz2 | tar xf -
+      - run:
+          command: ./miesheeoixs
+
+  afujpbxvfrgwk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: ohzwksffi
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; sed 's/=.*//' /etc/os-release | tail -n 3; true ; } > /var/tmp/shard1/weudzjdmkmvow
+            echo "gate rfprn: $(wc -c </var/tmp/shard1/weudzjdmkmvow) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'weudzjdmkmvow'
+  siobufwwjag:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: pglxohcukla
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; find /run -maxdepth 2 -iname '*.pid' -exec stat -c %F '{}' \; 2> /dev/null | head -n 15; true ; } > /var/tmp/shard1/sbcuwfgxxluc
+            echo "gate ftiearkteoeoemo: $(wc -c </var/tmp/shard1/sbcuwfgxxluc) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'sbcuwfgxxluc'
+  wchvcwlekkxlr:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: yjgijfxvg
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; printf '%s\n' 'name: demo' | sha256sum | cut -c1-16; true ; } > /var/tmp/shard1/qmwlddusbnolz
+            echo "gate ibwohzrgyia: $(wc -c </var/tmp/shard1/qmwlddusbnolz) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'qmwlddusbnolz'
+  pycyikki:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: dxorecccruyi
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; echo whale eagle zebra otter seal cat | xargs -n1; true ; } > /var/tmp/shard1/vklsat
+            echo "gate ntqtbripcupq: $(wc -c </var/tmp/shard1/vklsat) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'vklsat'
+  mlflyiiy:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: aojhixdfwrf
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; printf '%s\n' pantry tutorial plugin mountain canyon >"/tmp/juice_duck_garage.out" && tac "/tmp/juice_duck_garage.out"; true ; } > /var/tmp/shard1/tzhvrza
+            echo "gate yezqimelwecqc: $(wc -c </var/tmp/shard1/tzhvrza) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'tzhvrza'
+  tgxptcdfddv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: hiqxysawm
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; echo 'changes saved'; echo 'a-b-c'; true ; } > /var/tmp/shard1/jbvfiz
+            echo "gate oukscvck: $(wc -c </var/tmp/shard1/jbvfiz) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'jbvfiz'
+  ybuqh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: sxopvlsftzqix
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; date --date 'monday next week' '+%Y-%m-%d'; true ; } > /var/tmp/shard1/qlsghlawzxhgrk
+            echo "gate xszhktrmqez: $(wc -c </var/tmp/shard1/qlsghlawzxhgrk) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'qlsghlawzxhgrk'
+  rifdwzu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: wrwawmzdnuggno
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; printf '%s' 'meeting moved to 3pm'|od -An -c; true ; } > /var/tmp/shard1/bgvuhvehncw
+            echo "gate dyiwtudnglcljjy: $(wc -c </var/tmp/shard1/bgvuhvehncw) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'bgvuhvehncw'
+  rbblacgubsz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: cxhvbejkrhkiz
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; for k in north sync style star alert; do printf '%-8s %d\n' "$k" ${#k}; done; true ; } > /var/tmp/shard1/nzmlhl
+            echo "gate tjwdoazixhekar: $(wc -c </var/tmp/shard1/nzmlhl) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'nzmlhl'
+  thayycd:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: bjxadtlzvvzeoss
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; ls -avSX /var/tmp|shuf -n 2; true ; } > /var/tmp/shard1/qwdhjq
+            echo "gate hhejurmy: $(wc -c </var/tmp/shard1/qwdhjq) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'qwdhjq'
+  rfogtucth:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: zmxjetppipo
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; export w=video && printenv w; true ; } > /var/tmp/shard1/aqyedpctjxaucy
+            echo "gate aioxd: $(wc -c </var/tmp/shard1/aqyedpctjxaucy) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'aqyedpctjxaucy'
+  rdvqzdxpelfbnu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: gooopwtsjp
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; gzip -c /etc/hosts >"/tmp/Fixture.gz" && zcmp /etc/hosts "/tmp/Fixture.gz" && echo same; true ; } > /var/tmp/shard1/xgcktvw
+            echo "gate ditnnhkeyyqlfe: $(wc -c </var/tmp/shard1/xgcktvw) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'xgcktvw'
+  ydieqj:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: vgdbamtxlyu
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; : >"/tmp/rank-2026.02.08.md" && ls -l "/tmp/rank-2026.02.08.md"; true ; } > /var/tmp/shard1/pqrqyjceqawvoj
+            echo "gate sazgiklazgaf: $(wc -c </var/tmp/shard1/pqrqyjceqawvoj) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'pqrqyjceqawvoj'
+  msyqn:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: hkzidpblfyatozs
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; env | head -n 8 | sed 's/=.*//' | tac; true ; } > /var/tmp/shard1/ctfnlktfycnp
+            echo "gate jlzjxlyoylbse: $(wc -c </var/tmp/shard1/ctfnlktfycnp) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'ctfnlktfycnp'
+  qudsao:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: jtbbaj
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; find /tmp -maxdepth 1 -type d -writable -print | nl; true ; } > /var/tmp/shard1/ktwlbkjjaqjh
+            echo "gate wvnbiszuerqkuz: $(wc -c </var/tmp/shard1/ktwlbkjjaqjh) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'ktwlbkjjaqjh'
+  xlsskn:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: vyctzfiejhtqj
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; cat /etc/profile | grep -c -m 1 if; true ; } > /var/tmp/shard1/einchrryhv
+            echo "gate gnobzsyokl: $(wc -c </var/tmp/shard1/einchrryhv) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'einchrryhv'
+  bcpocmngvmf:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: khomnk
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; grep -ri --exclude-dir='.git' alias /etc/default 2>/dev/null | nl | head -n 8; true ; } > /var/tmp/shard1/ogizryq
+            echo "gate fgsuzccghgkt: $(wc -c </var/tmp/shard1/ogizryq) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'ogizryq'
+  zobvcgkk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: hwuhbxbftga
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; find /var/tmp -maxdepth 2 -exec basename {} ";" 2>/dev/null | wc -l; true ; } > /var/tmp/shard1/tvyunah
+            echo "gate ueehoxlkhwos: $(wc -c </var/tmp/shard1/tvyunah) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'tvyunah'
+  eovyblsqzmaj:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: pxcrznytqxqx
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; find /var/tmp -maxdepth 2 -type l -name '*' 2>/dev/null|tail -n 5; true ; } > /var/tmp/shard1/pdlseo
+            echo "gate bppsaumfqgb: $(wc -c </var/tmp/shard1/pdlseo) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'pdlseo'
+  wcbhw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: baysrxplljn
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; find /usr/share -maxdepth 2 -type f ! -name \*.xml -exec stat -c "%y %n" {} + 2> /dev/null | cat -n; true ; } > /var/tmp/shard1/bmpoztao
+            echo "gate yiqxzirbfze: $(wc -c </var/tmp/shard1/bmpoztao) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'bmpoztao'
+  iibaaqoauztxq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: vfobzgjsezp
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; grep -nv -e "sbin" /etc/passwd | tail -n3; true ; } > /var/tmp/shard1/ithtun
+            echo "gate mexyhnzypjvsl: $(wc -c </var/tmp/shard1/ithtun) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'ithtun'
+  jvytxjyqcu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: gautwbnuxqjms
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; echo $(( 88 >> 1 )); true ; } > /var/tmp/shard1/tqklxxyga
+            echo "gate nngqxqlqdiyarm: $(wc -c </var/tmp/shard1/tqklxxyga) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'tqklxxyga'
+  fwvuvzcwuoj:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: uxwpv
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; for i in $(seq 5); do echo "$i"; done; true ; } > /var/tmp/shard1/nvvzcxizb
+            echo "gate jcfhvacnnzm: $(wc -c </var/tmp/shard1/nvvzcxizb) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'nvvzcxizb'
+  vcvulydskrvektt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: xadyivmelwtkg
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; echo "hi" | od -An -tx1; true ; } > /var/tmp/shard1/tawcxnqgfqebj
+            echo "gate kqbeaeszvmyjt: $(wc -c </var/tmp/shard1/tawcxnqgfqebj) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'tawcxnqgfqebj'
+  htecjnzcse:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: ohsvsvhv
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; md5sum /bin/ls >"/tmp/ticketPin.md5" && md5sum -c "/tmp/ticketPin.md5"; true ; } > /var/tmp/shard1/xbmhcx
+            echo "gate atovpqh: $(wc -c </var/tmp/shard1/xbmhcx) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'xbmhcx'
+  igsdynlu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: qnporyn
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; for word in fox owl wolf cat goose frog ; do echo "<${word}>"; done; true ; } > /var/tmp/shard1/pwxoefe
+            echo "gate mikrbgwwcvstk: $(wc -c </var/tmp/shard1/pwxoefe) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'pwxoefe'
+  psjsxwxidap:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: iuouialtklzh
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; for x in /etc/*.d; do basename "$x"; done | head -n 3; true ; } > /var/tmp/shard1/qxzimq
+            echo "gate fgafpmvqnvwe: $(wc -c </var/tmp/shard1/qxzimq) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'qxzimq'
+  rvravotmtmdtuqp:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: dvropuzfmtm
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; echo 'just a test' >"/var/tmp/alert.dat" && du -h "/var/tmp/alert.dat"; true ; } > /var/tmp/shard1/aaopgbj
+            echo "gate bewvlya: $(wc -c </var/tmp/shard1/aaopgbj) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'aaopgbj'
+  dfsqyomqhi:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: utekqved
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; { date; uname -r; whoami; } >"/tmp/autumn-migration.out" && cat "/tmp/autumn-migration.out"; true ; } > /var/tmp/shard1/nihgbn
+            echo "gate rzytjg: $(wc -c </var/tmp/shard1/nihgbn) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'nihgbn'
+  yxgty:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /var/tmp/shard1
+      - run:
+          name: gpymqpioxqunww
+          command: |
+            mkdir -p /var/tmp/shard1
+            { set +o pipefail 2>/dev/null; env | head -3 | awk -F= '{print $1}' | pr -4 -t -w 80; true ; } > /var/tmp/shard1/ocmpdls
+            echo "gate pkrde: $(wc -c </var/tmp/shard1/ocmpdls) bytes total"
+      - persist_to_workspace:
+          root: /var/tmp/shard1
+          paths:
+            - 'ocmpdls'
+workflows:
+  iujdwbrjwu:
+    jobs:
+      - llrapaleyiaw
+      - afujpbxvfrgwk:
+          requires:
+            - llrapaleyiaw
+      - rfprn:
+          requires:
+            - afujpbxvfrgwk
+      - oetcnlqmuaptlbi:
+          requires:
+            - afujpbxvfrgwk
+      - siobufwwjag:
+          requires:
+            - oetcnlqmuaptlbi
+      - ftiearkteoeoemo:
+          requires:
+            - siobufwwjag
+      - lnkecddcuewaqdy:
+          requires:
+            - siobufwwjag
+      - wchvcwlekkxlr:
+          requires:
+            - lnkecddcuewaqdy
+      - ibwohzrgyia:
+          requires:
+            - wchvcwlekkxlr
+      - jymeorybai:
+          requires:
+            - wchvcwlekkxlr
+      - pycyikki:
+          requires:
+            - jymeorybai
+      - ntqtbripcupq:
+          requires:
+            - pycyikki
+      - qosgmzrjzrpsz:
+          requires:
+            - pycyikki
+      - mlflyiiy:
+          requires:
+            - qosgmzrjzrpsz
+      - yezqimelwecqc:
+          requires:
+            - mlflyiiy
+      - ltbiqu:
+          requires:
+            - mlflyiiy
+      - tgxptcdfddv:
+          requires:
+            - ltbiqu
+      - oukscvck:
+          requires:
+            - tgxptcdfddv
+      - yanfrzg:
+          requires:
+            - tgxptcdfddv
+      - ybuqh:
+          requires:
+            - yanfrzg
+      - xszhktrmqez:
+          requires:
+            - ybuqh
+      - bqhtwivkzcivz:
+          requires:
+            - ybuqh
+      - rifdwzu:
+          requires:
+            - bqhtwivkzcivz
+      - dyiwtudnglcljjy:
+          requires:
+            - rifdwzu
+      - cmmygneo:
+          requires:
+            - rifdwzu
+      - rbblacgubsz:
+          requires:
+            - cmmygneo
+      - tjwdoazixhekar:
+          requires:
+            - rbblacgubsz
+      - klbdatnlympyhpt:
+          requires:
+            - rbblacgubsz
+      - thayycd:
+          requires:
+            - klbdatnlympyhpt
+      - hhejurmy:
+          requires:
+            - thayycd
+      - jpsviy:
+          requires:
+            - thayycd
+      - rfogtucth:
+          requires:
+            - jpsviy
+      - aioxd:
+          requires:
+            - rfogtucth
+      - wrhehrzgaekq:
+          requires:
+            - rfogtucth
+      - rdvqzdxpelfbnu:
+          requires:
+            - wrhehrzgaekq
+      - ditnnhkeyyqlfe:
+          requires:
+            - rdvqzdxpelfbnu
+      - pglanmi:
+          requires:
+            - rdvqzdxpelfbnu
+      - ydieqj:
+          requires:
+            - pglanmi
+      - sazgiklazgaf:
+          requires:
+            - ydieqj
+      - vazlhpayqgdxblz:
+          requires:
+            - ydieqj
+      - msyqn:
+          requires:
+            - vazlhpayqgdxblz
+      - jlzjxlyoylbse:
+          requires:
+            - msyqn
+      - eblpy
+      - qudsao:
+          requires:
+            - eblpy
+      - wvnbiszuerqkuz:
+          requires:
+            - qudsao
+      - iktcb:
+          requires:
+            - qudsao
+      - xlsskn:
+          requires:
+            - iktcb
+      - gnobzsyokl:
+          requires:
+            - xlsskn
+      - lkpgzc:
+          requires:
+            - xlsskn
+      - bcpocmngvmf:
+          requires:
+            - lkpgzc
+      - fgsuzccghgkt:
+          requires:
+            - bcpocmngvmf
+      - iufoovwibznj:
+          requires:
+            - bcpocmngvmf
+      - zobvcgkk:
+          requires:
+            - iufoovwibznj
+      - ueehoxlkhwos:
+          requires:
+            - zobvcgkk
+      - mzmbxba:
+          requires:
+            - zobvcgkk
+      - eovyblsqzmaj:
+          requires:
+            - mzmbxba
+      - bppsaumfqgb:
+          requires:
+            - eovyblsqzmaj
+      - mldimueetlnaew:
+          requires:
+            - eovyblsqzmaj
+      - wcbhw:
+          requires:
+            - mldimueetlnaew
+      - yiqxzirbfze:
+          requires:
+            - wcbhw
+      - amgorjwjwisy:
+          requires:
+            - wcbhw
+      - iibaaqoauztxq:
+          requires:
+            - amgorjwjwisy
+      - mexyhnzypjvsl:
+          requires:
+            - iibaaqoauztxq
+      - dvrpa:
+          requires:
+            - iibaaqoauztxq
+      - jvytxjyqcu:
+          requires:
+            - dvrpa
+      - nngqxqlqdiyarm:
+          requires:
+            - jvytxjyqcu
+      - khspkhptkxtbot:
+          requires:
+            - jvytxjyqcu
+      - fwvuvzcwuoj:
+          requires:
+            - khspkhptkxtbot
+      - jcfhvacnnzm:
+          requires:
+            - fwvuvzcwuoj
+      - rqluwmyjpgdvtfc:
+          requires:
+            - fwvuvzcwuoj
+      - vcvulydskrvektt:
+          requires:
+            - rqluwmyjpgdvtfc
+      - kqbeaeszvmyjt:
+          requires:
+            - vcvulydskrvektt
+      - uelwogcgbgzt:
+          requires:
+            - vcvulydskrvektt
+      - htecjnzcse:
+          requires:
+            - uelwogcgbgzt
+      - atovpqh:
+          requires:
+            - htecjnzcse
+      - ftmtbvtayfihki:
+          requires:
+            - htecjnzcse
+      - igsdynlu:
+          requires:
+            - ftmtbvtayfihki
+      - mikrbgwwcvstk:
+          requires:
+            - igsdynlu
+      - xedhrxbckx:
+          requires:
+            - igsdynlu
+      - psjsxwxidap:
+          requires:
+            - xedhrxbckx
+      - fgafpmvqnvwe:
+          requires:
+            - psjsxwxidap
+      - pzaif:
+          requires:
+            - psjsxwxidap
+      - rvravotmtmdtuqp:
+          requires:
+            - pzaif
+      - bewvlya:
+          requires:
+            - rvravotmtmdtuqp
+      - ogtabgblxdaki:
+          requires:
+            - rvravotmtmdtuqp
+      - dfsqyomqhi:
+          requires:
+            - ogtabgblxdaki
+      - rzytjg:
+          requires:
+            - dfsqyomqhi
+      - dnrvbwxtoslt:
+          requires:
+            - dfsqyomqhi
+      - yxgty:
+          requires:
+            - dnrvbwxtoslt
+      - pkrde:
+          requires:
+            - yxgty
